@@ -59,7 +59,7 @@ export default function App() {
               <img 
                 src="./logo.png" 
                 alt="Logo" 
-                className="w-25 h-25 object-contain" 
+                className="w-30 h-30 object-contain" 
                 onError={(e) => {
                   e.currentTarget.style.display = 'none';
                 }}
@@ -432,7 +432,7 @@ export default function App() {
             <img 
               src="./logo.png" 
               alt="Logo" 
-              className="w-25 h-25 object-contain" 
+              className="w-30 h-30 object-contain" 
               onError={(e) => {
                 e.currentTarget.style.display = 'none';
               }}
