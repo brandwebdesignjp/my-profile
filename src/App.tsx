@@ -428,7 +428,7 @@ export default function App() {
       {/* Footer */}
       <footer className="py-12 bg-cafe-cream border-t border-cafe-brown/10">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <div className="flex items-center justify-center gap-2 mb-4">
+          <div className="flex items-center justify-center gap-0 mb-4">
             <img 
               src="./logo.png" 
               alt="Logo" 
